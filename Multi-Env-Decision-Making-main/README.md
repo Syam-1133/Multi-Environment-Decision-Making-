@@ -75,8 +75,4 @@ To evaluate a policy (without rendering videos in real-time)
 
 To evaluate a policy (with video rendering in real-time)
 
-`python run.py --config <path to config yaml> -m test -p <path to policy weight> --render_video`
-
-## Contact/Getting Help
-
-To know more about the experiments we conducted and their results, please refer to the [blog](https://shantanuacharya.notion.site/Multi-Env-Decision-Making-d40e0ad783e64eebbb755756306e8ed9). If you still have questions, feel free to raise an issue.
+`python run.py --config <path to config yaml> -m test -p <path to policy weight> --
